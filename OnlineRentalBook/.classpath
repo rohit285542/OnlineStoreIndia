@@ -66,5 +66,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_172"/>
 	<classpathentry kind="lib" path="C:/Users/rohit.tiwari/Documents/Learning_Project/rohit-sir-software-jar/javax.servlet-api-3.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rohit.tiwari/Documents/Learning_Project/rohit-sir-software-jar/jsp-api-2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

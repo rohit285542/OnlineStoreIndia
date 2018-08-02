@@ -25,6 +25,7 @@
 </head><!--/head-->
 
 <body>
+    <jsp:include page="header.jsp"/>	
 	<div class="container text-center">
 		<div class="logo-404">
 			<a href="index"><img src="images/home/logo.png" alt="" /></a>
@@ -37,6 +38,7 @@
 		</div>
 	</div>
 
+  <jsp:include page="footer.jsp"/>
   
     <script src="js/jquery.js"></script>
 	<script src="js/price-range.js"></script>
